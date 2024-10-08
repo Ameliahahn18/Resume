@@ -1,0 +1,33 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body 
+
+	
+	a:link, a:visited { color: blueviolet; 
+					text-decoration: none;
+				    font-size: 20px; }
+				 a:hover { text-decoration: underline; }
+
+a:active { color: green; }
+
+	#education li {color: brown }
+body {border: 20px sandybrown; padding: 75px}
+h2{
+	color:#9e0587;
+	font-family:"verdana", Helvetica, sans-serif ;
+}
+.nested {background-color: 
+#FFE5D4}
+#grass {
+	background-color: #F1C8DB;
+}
+
+H3 {color: #de09be; 
+}
+body{ background-color: #f0e3fc; 
+ background-image: url("ramona1.jpg");
+ background-size: 250px;
+ background-repeat: no-repeat;
+ background-position: top right;
+ background-attachment: fixed;
+}
+li {list-style-position: inside}
